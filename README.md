@@ -32,6 +32,9 @@
         <li><a href="#inst">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#feat">Key Features</a></li>
+    <li><a href="#give">How to Contribute</a></li>
+    <li><a href="#plus">Future Enhancements</a></li>
     <li><a href="#lic">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#ack">Acknowledgments</a></li>
@@ -83,6 +86,22 @@ Core Audio: For audio manipulation and volume boosting.
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
+<a name="map"></a>
+## Roadmap
+
+UI Design: Design a simple and visually appealing user interface, considering both the menu bar widget and standalone application.
+Implement Volume Boosting: Integrate Core Audio to enable volume boosting beyond Apple's pre-set maximum volume.
+Configure UI Controls: Add sliders, buttons, or other controls to allow users to adjust the volume and enable/disable the volume boost.
+Menu Bar Integration: Implement the functionality to run the application as a menu bar widget with a dropdown interface.
+Standalone Application: Create a separate standalone application with the same functionality and minimal UI.
+User Preferences: Allow users to customize settings, such as preferred volume levels or startup behavior.
+Testing: Perform rigorous testing to ensure smooth functionality and handle potential edge cases.
+Code Optimization: Refine the codebase and optimize performance for a seamless user experience.
+Deployment: Prepare the application for distribution on the Mac App Store.
+
+<p align="right">(<a href="#vol">back to top</a>)</p>
+
+---------------------
 
 <a name="time"></a>
 ## Time Estimate
@@ -101,22 +120,6 @@ Create a New macOS SwiftUI Project: Set up a new project and define the basic UI
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
-<a name="map"></a>
-## Roadmap
-
-UI Design: Design a simple and visually appealing user interface, considering both the menu bar widget and standalone application.
-Implement Volume Boosting: Integrate Core Audio to enable volume boosting beyond Apple's pre-set maximum volume.
-Configure UI Controls: Add sliders, buttons, or other controls to allow users to adjust the volume and enable/disable the volume boost.
-Menu Bar Integration: Implement the functionality to run the application as a menu bar widget with a dropdown interface.
-Standalone Application: Create a separate standalone application with the same functionality and minimal UI.
-User Preferences: Allow users to customize settings, such as preferred volume levels or startup behavior.
-Testing: Perform rigorous testing to ensure smooth functionality and handle potential edge cases.
-Code Optimization: Refine the codebase and optimize performance for a seamless user experience.
-Deployment: Prepare the application for distribution on the Mac App Store.
-
-<p align="right">(<a href="#vol">back to top</a>)</p>
-
----------------------
 <a name="flow"></a>
 ## Basic Workflow Guide
 
@@ -126,19 +129,6 @@ A slider allows the user to adjust the level of volume boost they desire, rangin
 The application utilizes Core Audio to intercept audio output and apply the desired volume boost.
 The boosted audio is then sent to the system's audio output for playback.
 The user can control the volume directly from the application or the menu bar widget.
-
-<p align="right">(<a href="#vol">back to top</a>)</p>
-
----------------------
-
-<a name="feat"></a>
-## Key Features 
-
-Volume Boosting: Amplify audio playback volume by up to 2000% beyond Apple's default limits.
-Minimalistic UI: A simple and user-friendly interface with essential controls.
-Menu Bar Widget: Run the application as a convenient menu bar drop-down widget.
-Standalone Application: Offer the option to use VolumeVault as a standalone application for easy access.
-Customizability: Allow users to fine-tune the volume boost level according to their preferences.
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
@@ -179,6 +169,19 @@ Noisy Environments: Allow users to boost volume in loud or noisy surroundings.
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
+
+<a name="feat"></a>
+## Key Features 
+
+Volume Boosting: Amplify audio playback volume by up to 2000% beyond Apple's default limits.
+Minimalistic UI: A simple and user-friendly interface with essential controls.
+Menu Bar Widget: Run the application as a convenient menu bar drop-down widget.
+Standalone Application: Offer the option to use VolumeVault as a standalone application for easy access.
+Customizability: Allow users to fine-tune the volume boost level according to their preferences.
+
+<p align="right">(<a href="#vol">back to top</a>)</p>
+
+---------------------
 <a name="give"></a>
 ## How and Why to Contribute
 
@@ -190,6 +193,7 @@ Bug Reports and Feature Requests: Encourage users to submit bug reports and sugg
 
 ---------------------
 <a name="plus"></a>
+
 ## Potential Enhancements
 
 Equalizer: Implement an audio equalizer to provide users with further control over audio frequencies.
@@ -198,3 +202,63 @@ Audio Effects: Integrate audio effects like spatial audio or surround sound to e
 Dark Mode: Add support for macOS dark mode to enhance visual appeal and consistency with macOS aesthetics.
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
+
+---------------------------
+
+<a name="lic"></a>
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#vol">back to top</a>)</p>
+
+---------------------------
+<a name="contact"></a>
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#vol">back to top</a>)</p>
+
+---------------------------
+<a name="ack"></a>
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#vol">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+

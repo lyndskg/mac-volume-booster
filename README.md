@@ -1,6 +1,8 @@
-<a name="readme-top"></a>
+<a name="vol"></a>
 
-# volume-vault [WIP]
+
+<!-- Adding custom IDs allows you to link directly to headings and modify them with CSS. To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading. -->
+# volume-vault [WIP] {vol}
 ##### <ins>__*a macOS app for boosting max audio output*__</ins>
 
 <details>
@@ -36,7 +38,7 @@
   </ol>
 </details>
   
-> Unleash the \~Audio Amplification Adventure\~
+> Unleash the ~Audio Amplification Adventure~
 > 
 
 ---------------------------
@@ -52,14 +54,15 @@ This entertaining project features a simple and minimalistic user interface, off
 ### Objectives
 The main objective of <ins>__*volume-vault*__</ins> is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. By offering a user-friendly interface and a humorous touch, VolumeVault aims to enhance the audio experience for users who desire louder sound without compromising on quality.
 
+<p align="right">(<a href="#vol">back to top</a>)</p>
+
 ---------------------
 
-<a name="tech"></a>
+<a name="tech"></a> 
 ## Technologies and Programming Languages
 For the front-end and UI development, the following technologies and programming languages are recommended:
-
-Swift: As the primary language for macOS app development.
-SwiftUI: To create a modern and visually appealing minimalistic user interface.
+- Swift: As the primary language for macOS app development.
+- 4SwiftUI: To create a modern and visually appealing minimalistic user interface.
 
 
 For the back-end and audio processing, the following library can be considered:
@@ -77,7 +80,7 @@ Core Audio: For audio manipulation and volume boosting.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 
@@ -85,7 +88,7 @@ Core Audio: For audio manipulation and volume boosting.
 ## Time Estimate
 The time required for completing VolumeVault can vary based on the developer's expertise and the desired level of polish. For a basic version with the primary features, it may take around 2-4 weeks. For a more refined version with additional features and thorough testing, it may take up to 6-8 weeks or more.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 <a name="start"></a>
@@ -95,7 +98,7 @@ The time required for completing VolumeVault can vary based on the developer's e
 Install Xcode: Download and install Xcode, the integrated development environment for macOS app development, from the Mac App Store.
 Create a New macOS SwiftUI Project: Set up a new project and define the basic UI elements and application structure.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 <a name="map"></a>
@@ -111,7 +114,7 @@ Testing: Perform rigorous testing to ensure smooth functionality and handle pote
 Code Optimization: Refine the codebase and optimize performance for a seamless user experience.
 Deployment: Prepare the application for distribution on the Mac App Store.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 <a name="flow"></a>
@@ -124,7 +127,7 @@ The application utilizes Core Audio to intercept audio output and apply the desi
 The boosted audio is then sent to the system's audio output for playback.
 The user can control the volume directly from the application or the menu bar widget.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 
@@ -137,7 +140,7 @@ Menu Bar Widget: Run the application as a convenient menu bar drop-down widget.
 Standalone Application: Offer the option to use VolumeVault as a standalone application for easy access.
 Customizability: Allow users to fine-tune the volume boost level according to their preferences.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 
@@ -153,7 +156,7 @@ Boosted audio output to the system's audio playback.
 System/User Permissions and Requirements:
 To manipulate audio output, VolumeVault will need appropriate permissions to access the user's audio settings and intercept audio playback. Users will need to grant the necessary permissions during the application's first run. <ins>__*volume-vault*__</ins> should adhere to macOS security guidelines and handle permissions gracefully.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 
@@ -173,7 +176,7 @@ Noisy Environments: Allow users to boost volume in loud or noisy surroundings.
 
 ### Installation:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 <a name="give"></a>
@@ -183,7 +186,7 @@ Contribution Guidelines: Provide clear guidelines on how developers can contribu
 Open Source: Consider making VolumeVault an open-source project to foster community contributions.
 Bug Reports and Feature Requests: Encourage users to submit bug reports and suggest new features to improve the application.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
 <a name="plus"></a>
@@ -194,4 +197,4 @@ Presets: Include preset configurations for different scenarios (e.g., movies, mu
 Audio Effects: Integrate audio effects like spatial audio or surround sound to enrich the audio experience.
 Dark Mode: Add support for macOS dark mode to enhance visual appeal and consistency with macOS aesthetics.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#vol">back to top</a>)</p>

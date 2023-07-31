@@ -207,7 +207,7 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 ### System/User Permissions and Requirements:
 To manipulate audio output, *<ins>__volume-vault__</ins>* will need appropriate permissions to access the user's audio settings and intercept audio playback. 
 
-Users will need to grant the necessary permissions during the application's first run. 
+Users will need to grant the necessary permissions during the application's first run.\
 <ins>__*volume-vault*__</ins> should adhere to macOS security guidelines and handle permissions gracefully.
 
 > Put

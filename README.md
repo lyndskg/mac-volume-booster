@@ -76,8 +76,8 @@ By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault
 <a name="tech"></a> 
 ## Technologies and Programming Languages
 For the *front-end* and *UI* development, the following technologies and programming languages are recommended:
-- **<ins>Swift</ins>:** As the primary language for macOS app development.
-- **<ins>SwiftUI</ins>:** To create a modern and visually appealing minimalistic user interface.
+> - **<ins>Swift</ins>:** As the primary language for macOS app development.
+> - **<ins>SwiftUI</ins>:** To create a modern and visually appealing minimalistic user interface.
 &nbsp;
 
 For the *back-end* and audio processing, the following library can be considered:

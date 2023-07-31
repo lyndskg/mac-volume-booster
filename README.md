@@ -110,6 +110,8 @@ Core Audio: For audio manipulation and volume boosting.
 - [ ] Pseudocode
 - [ ] Add Additional Templates w/ Examples
 
+&nbsp; 
+
 1. **<ins>UI Design</ins>:** Design a simple and visually appealing user interface, considering both the menu bar widget and standalone application.
 2. **<ins>Implement Volume Boosting</ins>:** Integrate Core Audio to enable volume boosting beyond Apple's pre-set maximum volume.
 3. **<ins>Configure UI Controls</ins>:** Add sliders, buttons, or other controls to allow users to adjust the volume and enable/disable the volume boost.

@@ -133,6 +133,7 @@ For the *back-end* and audio processing, the following library can be considered
 > - For a *basic* version with the primary features, it may take around 2-4 weeks. 
 > - For a *more refined* version with additional features and thorough testing, it may take up to 6-8 weeks or more.
 
+&nbsp;
   
 <a name="todo"></a>
 ### To-Do List: 

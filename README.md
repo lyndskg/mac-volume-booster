@@ -4,7 +4,7 @@
 <!-- Adding custom IDs allows you to link directly to headings and modify them with CSS. To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading. -->
 <h1 id="vol">volume-vault [WIP]</h3>
 
-#### <ins>__*a macOS app for boosting max audio output*__</ins>
+### <ins>__*a macOS app for boosting max audio output*__</ins>
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,13 @@
       </ul>
     </li>
     <li><a href="#start">Getting Started</a></li>
-    <li><a href="#map">Roadmap</a></li>
+    <li>
+      <a href="#map">Roadmap</a>
+      <ul>
+        <a href="timeline">Timeline</a>
+        <a href="todo">To-do List</a>
+      </ul>
+    </li>
     <li><a href="#flow">Basic Workflow</a></li>
     <li><a href="#io">Basic I/O Details</a></li>
     <li>
@@ -74,14 +80,14 @@ For the back-end and audio processing, the following library can be considered:
 Core Audio: For audio manipulation and volume boosting.
 
 <a name="built"></a>
-
 ### Built With:
 
 
 <a name="devenv"></a>
-
 ### Development Environment:
 
+- **Operating System:** macOS Ventura 14.3.1
+- **Architecture:** Apple arm64
 
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
@@ -90,15 +96,29 @@ Core Audio: For audio manipulation and volume boosting.
 <a name="map"></a>
 ## Roadmap
 
-UI Design: Design a simple and visually appealing user interface, considering both the menu bar widget and standalone application.
-Implement Volume Boosting: Integrate Core Audio to enable volume boosting beyond Apple's pre-set maximum volume.
-Configure UI Controls: Add sliders, buttons, or other controls to allow users to adjust the volume and enable/disable the volume boost.
-Menu Bar Integration: Implement the functionality to run the application as a menu bar widget with a dropdown interface.
-Standalone Application: Create a separate standalone application with the same functionality and minimal UI.
-User Preferences: Allow users to customize settings, such as preferred volume levels or startup behavior.
-Testing: Perform rigorous testing to ensure smooth functionality and handle potential edge cases.
-Code Optimization: Refine the codebase and optimize performance for a seamless user experience.
-Deployment: Prepare the application for distribution on the Mac App Store.
+<a name="timeline"></a>
+### Timeline: 
+
+> ##### <ins>__Started__</ins>: Not yet
+>
+> ##### <ins>__Completed On__</ins>: Idk
+
+
+<a name="todo"></a>
+### To-do List: 
+- [ ] Create a New macOS SwiftUI Project
+- [ ] Pseudocode
+- [ ] Add Additional Templates w/ Examples
+
+1. **<ins>UI Design</ins>:** Design a simple and visually appealing user interface, considering both the menu bar widget and standalone application.
+2. **<ins>Implement Volume Boosting</ins>:** Integrate Core Audio to enable volume boosting beyond Apple's pre-set maximum volume.
+3. **<ins>Configure UI Controls</ins>:** Add sliders, buttons, or other controls to allow users to adjust the volume and enable/disable the volume boost.
+4. **<ins>Menu Bar Integration</ins>:** Implement the functionality to run the application as a menu bar widget with a dropdown interface.
+5. **<ins>Standalone Application</ins>:** Create a separate standalone application with the same functionality and minimal UI.
+6. **<ins>User Preferences</ins>:** Allow users to customize settings, such as preferred volume levels or startup behavior.
+7. **<ins>Testing</ins>:** Perform rigorous testing to ensure smooth functionality and handle potential edge cases.
+8. **<ins>Code Optimization</ins>:** Refine the codebase and optimize performance for a seamless user experience.
+9. **<ins>Deployment</ins>** Prepare the application for distribution on the Mac App Store.
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 

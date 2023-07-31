@@ -18,9 +18,9 @@
     <li>
       <a href="#tech">Technologies and Programming Languages</a>
       <ul>
-        <a href="#rec">Recommended</a>
-        <a href="#built">Built With</a>
-        <a href="#devenv">Development Environment</a>
+        <li><a href="#rec">Recommended</a></li>
+        <li><a href="#built">Built With</a></li>
+        <li><a href="#devenv">Development Environment</a></li>
       </ul>
     </li>
     <li>
@@ -36,9 +36,9 @@
     <li>
       <a href="#start">Getting Started</a></li>
       <ul>
-        <a href="#xcode">SwiftUI in XCode</a>
-        <a href="#cpp">C++ in CLion</a>
-        <a href="#swift">Swift in CLion</a>
+        <li><a href="#xcode">SwiftUI in XCode</a></li>
+        <li><a href="#cpp">C++ in CLion</a></li>
+        <li><a href="#swift">Swift in CLion</a></li>
       </ul>
     </li>
     <li><a href="#flow">Basic Workflow</a></li>

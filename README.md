@@ -65,7 +65,7 @@ This entertaining project features a simple and minimalistic user interface, off
 
 
 <a name="obj"></a>
-### Objectives
+### <ins>Objectives</ins>
 The main objective of `volume_vault` is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. 
 
 By offering a user-friendly interface and a humorous touch, `volume_vault` aims to enhance the audio experience for users who desire louder sound without compromising on quality.

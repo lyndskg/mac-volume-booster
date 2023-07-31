@@ -77,7 +77,9 @@ By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault
 <a name="tech"></a> 
 ## Technologies and Programming Languages
 
+
 <a name="rec"></a> 
+
 ### Recommended:
 
 For the *front-end* and *UI* development, the following technologies and programming languages are recommended:

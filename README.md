@@ -182,14 +182,16 @@ For the *back-end* and audio processing, the following library can be considered
 
 
 <a name="xcode"></a>
-### Version 1: XCode in *SwiftUI*
-> 1. **<ins>Install XCode</ins>:** Download and install XCode, the integrated development environment for macOS app development, from the Mac App Store.
-> 2. **<ins>Create a New macOS SwiftUI Project</ins>:** Set up a new project and define the basic UI elements and application structure.
+### <ins>Version 1: XCode in *SwiftUI*</ins>
+- [ ] 1. **<ins>Install XCode</ins>:**
+> Download and install XCode, the integrated development environment for macOS app development, from the Mac App Store.
+- [ ] 2. **<ins>Create a New macOS SwiftUI Project</ins>:**
+> Set up a new project and define the basic UI elements and application structure.
 
 
 
 <a name="cpp"></a>
-### Version 2: CLion in *C++*
+### <ins>Version 2: CLion in *C++*</ins>
 - [ ] 1. **<ins>Create a New C++ Project</ins>:**
 > In CLion, create a new C++ project, and define the basic structure for the VolumeVault application.
 - [ ] 2. **<ins>Choose a Cross-Platform Framework (Optional)</ins>:**
@@ -216,15 +218,33 @@ For the *back-end* and audio processing, the following library can be considered
 
 
 <a name="swift"></a>
-### Version 3: CLion in *Swift*
-1. **<ins>Swift Support</ins>:** By default, JetBrains CLion doesn't provide built-in support for Swift. However, you can enable Swift support using the Swift Plugin. To do this, go to "Settings" (or "Preferences" on macOS) > "Plugins" > "Marketplace," search for "Swift," and install the Swift plugin.
-2. **<ins>Create a New Swift Project</ins>:** After enabling the Swift plugin, you can create a new Swift project in JetBrains CLion. Choose the appropriate project template for a macOS application.
-3. **<ins>Minimalistic UI</ins>:** Design a simple and user-friendly interface for VolumeVault. SwiftUI, a modern UI framework for Swift, can be used for creating a minimalistic UI that integrates seamlessly with macOS.
-4. __<ins>Core Audio Integration (*macOS-specific*)</ins>:__ To enable volume boosting on macOS, you'll need to integrate `Core Audio`. `Core Audio` is macOS-specific, so you may need to handle platform-specific code using preprocessor directives, ensuring the application compiles correctly on macOS.
-5. **<ins>Handle macOS Permissions</ins>:** When using `Core Audio` to intercept audio output, ensure your application handles macOS permissions gracefully. In some cases, additional permissions may be required from the user to manipulate audio output.
-6. **<ins>Code and Test</ins>:** Write the logic for volume boosting and user interface interactions in Swift. Test the application thoroughly, especially on macOS, to ensure it functions as expected.
-7. **<ins>Project Build</ins>:** Set up build configurations for macOS in CLion to generate a macOS executable. Ensure that the build settings include Swift support.
-8. **<ins>Optional XCode or VSCode Integration</ins>:** If you prefer, you can use XCode or VSCode for specific tasks, such as advanced debugging, profiling, or specific macOS-related development. You can import your Swift project from JetBrains CLion into XCode or VSCode when necessary.
+### <ins>Version 3: CLion in *Swift*</ins>
+- [ ] 1. **<ins>Swift Support</ins>:**
+> By default, JetBrains CLion doesn't provide built-in support for Swift.\
+> However, you can enable Swift support using the Swift Plugin.\
+>
+> To do this, go to "Settings" (or "Preferences" on macOS) > "Plugins" > "Marketplace," search for "Swift," and install the Swift plugin.
+- [ ] 2. **<ins>Create a New Swift Project</ins>:**
+> After enabling the Swift plugin, you can create a new Swift project in JetBrains CLion.\
+> Choose the appropriate project template for a macOS application.
+- [ ] 3. **<ins>Minimalistic UI</ins>:**
+> Design a simple and user-friendly interface for VolumeVault.\
+> SwiftUI, a modern UI framework for Swift, can be used for creating a minimalistic UI that integrates seamlessly with macOS.
+- [ ] 4. __<ins>Core Audio Integration (*macOS-specific*)</ins>:__
+> To enable volume boosting on macOS, you'll need to integrate `Core Audio`.\
+> `Core Audio` is macOS-specific, so you may need to handle platform-specific code using preprocessor directives, ensuring the application compiles correctly on macOS.
+- [ ] 5. **<ins>Handle macOS Permissions</ins>:**
+> When using `Core Audio` to intercept audio output, ensure your application handles macOS permissions gracefully.\
+> In some cases, additional permissions may be required from the user to manipulate audio output.
+- [ ] 6. **<ins>Code and Test</ins>:**
+> Write the logic for volume boosting and user interface interactions in Swift.\
+> Test the application thoroughly, especially on macOS, to ensure it functions as expected.
+- [ ] 7. **<ins>Project Build</ins>:**
+> Set up build configurations for macOS in CLion to generate a macOS executable.\
+> Ensure that the build settings include Swift support.
+- [ ] 8. **<ins>Optional XCode or VSCode Integration</ins>:**
+> If you prefer, you can use XCode or VSCode for specific tasks, such as advanced debugging, profiling, or specific macOS-related development.\
+> You can import your Swift project from JetBrains CLion into XCode or VSCode when necessary.
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 

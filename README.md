@@ -18,6 +18,7 @@
     <li>
       <a href="#tech">Technologies and Programming Languages</a>
       <ul>
+        <a href="#rec">Recommended</a>
         <a href="#built">Built With</a>
         <a href="#devenv">Development Environment</a>
       </ul>
@@ -75,6 +76,10 @@ By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault
 
 <a name="tech"></a> 
 ## Technologies and Programming Languages
+
+<a name="rec"></a> 
+### Recommended:
+
 For the *front-end* and *UI* development, the following technologies and programming languages are recommended:
 > - **<ins>Swift</ins>:** As the primary language for macOS app development.
 > - **<ins>SwiftUI</ins>:** To create a modern and visually appealing minimalistic user interface.

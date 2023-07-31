@@ -60,7 +60,7 @@
 This entertaining project features a simple and minimalistic user interface, offering users the choice to use it as a Mac menu bar drop-down widget or a standalone application for an enjoyable audio amplification experience.
 
 
-<a name="#obj"></a>
+<a name="obj"></a>
 ### Objectives
 The main objective of <ins>__*volume-vault*__</ins> is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. 
 

@@ -95,6 +95,9 @@ For the *back-end* and audio processing, the following library can be considered
 <a name="built"></a>
 ### Built With:
 
+> Put
+> Shit
+> Here
 
 <a name="devenv"></a>
 ### Development Environment:
@@ -110,6 +113,9 @@ For the *back-end* and audio processing, the following library can be considered
 <a name="map"></a>
 ## Roadmap
 
+> Put
+> Shit
+> Here
 
 <a name="line"></a>
 ### Timeline: 
@@ -134,6 +140,10 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 - [ ] Pseudocode
 - [ ] Add Additional Templates w/ Examples
 
+> Put
+> Shit
+> Here
+
 &nbsp; 
 
 1. **<ins>UI Design</ins>:**
@@ -154,17 +164,6 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
     - Refine the codebase and optimize performance for a seamless user experience.
 9. **<ins>Deployment</ins>:**
     - Prepare the application for distribution on the Mac App Store.
-
-<p align="right">(<a href="#vol">back to top</a>)</p>
-
----------------------
-
-≈
-## Time Estimate
-The time required for completing <ins>__*volume-vault*__</ins> can vary based on the developer's expertise and the desired level of polish. 
-
-- For a *basic* version with the primary features, it may take around 2-4 weeks. 
-- For a *more refined* version with additional features and thorough testing, it may take up to 6-8 weeks or more.
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
@@ -196,20 +195,24 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 <a name="io"></a>
 ## Basic I/O Details
 
-### Input:
-- User interaction with the application's sliders and buttons to control volume boost and other settings.
+> ### Input:
+> - User interaction with the application's sliders and buttons to control volume boost and other settings.
+> 
+>
+> ### Output:
+> - Boosted audio output to the system's audio playback.
 
-
-### Output:
-- Boosted audio output to the system's audio playback.
-
-&nbsp
+&nbsp;
 
 ### System/User Permissions and Requirements:
 To manipulate audio output, *<ins>__volume-vault__</ins>* will need appropriate permissions to access the user's audio settings and intercept audio playback. 
 
 Users will need to grant the necessary permissions during the application's first run. 
 <ins>__*volume-vault*__</ins> should adhere to macOS security guidelines and handle permissions gracefully.
+
+> Put
+> Shit
+> Here
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 

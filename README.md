@@ -194,6 +194,7 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 ### Output:
 - Boosted audio output to the system's audio playback.
 
+&nbsp
 
 ### System/User Permissions and Requirements:
 To manipulate audio output, *<ins>__volume-vault__</ins>* will need appropriate permissions to access the user's audio settings and intercept audio playback. 

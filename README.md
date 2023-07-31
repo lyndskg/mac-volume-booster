@@ -12,7 +12,13 @@
         <li><a href="obj">Objectives</a></li>
       </ul>
     </li>
-    <li><a href="#tech">Technologies and Programming Languages</a></li>
+    <li>
+      <a href="#tech">Technologies and Programming Languages</a>
+      <ul>
+        <a href="built">Built With</a>
+        <a href="devenv">Development Environment</a>
+      </ul>
+    </li>
     <li><a href="#start">Getting Started</a></li>
     <li><a href="#map">Roadmap</a></li>
     <li><a href="#flow">Basic Workflow</a></li>
@@ -30,7 +36,10 @@
   </ol>
 </details>
   
+> Unleash the ~Audio Amplification Adventure~
+> 
 
+---------------------------
 
 <a name="view"></a>
 ## Project Overview
@@ -51,9 +60,20 @@ For the front-end and UI development, the following technologies and programming
 
 Swift: As the primary language for macOS app development.
 SwiftUI: To create a modern and visually appealing minimalistic user interface.
+
+
 For the back-end and audio processing, the following library can be considered:
 
 Core Audio: For audio manipulation and volume boosting.
+
+<a name="built"></a>
+### Built With:
+
+
+<a name="devenv"></a>
+### Development Environment:
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

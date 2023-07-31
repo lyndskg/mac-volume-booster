@@ -4,7 +4,7 @@
 <!-- Adding custom IDs allows you to link directly to headings and modify them with CSS. To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading. -->
 <h1 id="vol">volume-vault [WIP]</h3>
 
-### <ins>__*a macOS app for boosting max audio output*__</ins>
+#### <ins>__*a macOS app for boosting max audio output*__</ins>
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
       <a href="#map">Roadmap</a>
       <ul>
         <a href="timeline">Timeline</a>
-        <a href="todo">To-do List</a>
+        <a href="todo">To-Do List</a>
       </ul>
     </li>
     <li><a href="#flow">Basic Workflow</a></li>
@@ -105,7 +105,7 @@ Core Audio: For audio manipulation and volume boosting.
 
 
 <a name="todo"></a>
-### To-do List: 
+### To-Do List: 
 - [ ] Create a New macOS SwiftUI Project
 - [ ] Pseudocode
 - [ ] Add Additional Templates w/ Examples

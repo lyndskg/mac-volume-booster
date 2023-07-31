@@ -29,7 +29,7 @@
       <ul>
         <li><a href="#line">Timeline</a></li>
         <ul>
-          <li><a href="#time">Time Estimate</a>></li>
+          <li><a href="#time">Time Estimate</a></li>
         </ul>
         <li><a href="#todo">To-Do List</a></li>
       </ul>

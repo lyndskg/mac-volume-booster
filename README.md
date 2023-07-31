@@ -26,11 +26,11 @@
     <li>
       <a href="#map">Roadmap</a>
       <ul>
-        <a href="#line">Timeline</a>
+        <li><a href="#line">Timeline</a></li>
         <ul>
-          <a href="#time">Time Estimate</a>
+          <li><a href="#time">Time Estimate</a>></li>
         </ul>
-        <a href="#todo">To-Do List</a>
+        <li><a href="#todo">To-Do List</a></li>
       </ul>
     </li>
     <li><a href="#flow">Basic Workflow</a></li>
@@ -99,6 +99,7 @@ For the *back-end* and audio processing, the following library can be considered
 ---------------------
 <a name="map"></a>
 ## Roadmap
+
 
 <a name="line"></a>
 ### Timeline: 

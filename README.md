@@ -66,7 +66,7 @@ This entertaining project features a simple and minimalistic user interface, off
 
 <a name="obj"></a>
 ### Objectives
-The main objective of <ins>__*volume-vault*__</ins> is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. 
+The main objective of __*volume-vault*__ is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. 
 
 By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault*__</ins> aims to enhance the audio experience for users who desire louder sound without compromising on quality.
 
@@ -80,9 +80,9 @@ By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault
 
 <a name="rec"></a> 
 
-### Recommended:
-
-For the *front-end* and *UI* development, the following technologies and programming languages are recommended:
+> ### Recommended:
+>
+> For the *front-end* and *UI* development, the following technologies and programming languages are recommended:
 > - **<ins>Swift</ins>:** As the primary language for macOS app development.
 > - **<ins>SwiftUI</ins>:** To create a modern and visually appealing minimalistic user interface.
 

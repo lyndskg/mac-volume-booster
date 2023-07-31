@@ -87,7 +87,7 @@ By offering a user-friendly interface and a humorous touch, `volume_vault` aims 
 
 <a name="rec"></a> 
 
-> ### Recommended:
+### Recommended:
 >
 > For the *front-end* and *UI* development, the following technologies and programming languages are recommended:
 > - **<ins>Swift</ins>:** As the primary language for macOS app development.

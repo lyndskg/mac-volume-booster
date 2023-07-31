@@ -66,9 +66,9 @@ This entertaining project features a simple and minimalistic user interface, off
 
 <a name="obj"></a>
 ### Objectives
-The main objective of __*volume-vault*__ is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. 
+The main objective of `volume_vault` is to provide macOS users with a playful solution to amplify their audio volume beyond the limitations imposed by Apple. 
 
-By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault*__</ins> aims to enhance the audio experience for users who desire louder sound without compromising on quality.
+By offering a user-friendly interface and a humorous touch, `volume_vault` aims to enhance the audio experience for users who desire louder sound without compromising on quality.
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
@@ -128,7 +128,7 @@ For the *back-end* and audio processing, the following library can be considered
 
 #### Time Estimate: 
 
-The time required for completing <ins>__*volume-vault*__</ins> can vary based on the developer's expertise and the desired level of polish. 
+The time required for completing `volume_vault` can vary based on the developer's expertise and the desired level of polish. 
 
 - For a *basic* version with the primary features, it may take around 2-4 weeks. 
 - For a *more refined* version with additional features and thorough testing, it may take up to 6-8 weeks or more.
@@ -182,7 +182,7 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 1. **<ins>Create a New C++ Project</ins>:** In CLion, create a new C++ project, and define the basic structure for the VolumeVault application.
 2. **<ins>Choose a Cross-Platform Framework (Optional)</ins>:** To ensure cross-platform compatibility, consider using a cross-platform C++ framework, such as `Qt` or `wxWidgets`, for the front-end development. These frameworks will allow you to create a user-friendly interface that works seamlessly on macOS and other platforms.
 3. **<ins>Integrate Core Audio (macOS-specific)</ins>:** To enable volume boosting on macOS, you'll need to use the Core Audio framework. While Core Audio is macOS-specific, you can use preprocessor directives to handle platform-specific code and ensure the application compiles correctly on macOS.
-4. **<ins>Implement Minimalistic UI</ins>:** Using your preferred C++ framework or native macOS APIs, create a simple and intuitive user interface for <ins>__*volume-vault*__</ins>. Keep the UI minimalistic to achieve a clean and user-friendly design.
+4. **<ins>Implement Minimalistic UI</ins>:** Using your preferred C++ framework or native macOS APIs, create a simple and intuitive user interface for `volume_vault`. Keep the UI minimalistic to achieve a clean and user-friendly design.
 5. **<ins>Handle macOS Permissions</ins>:** When using `Core Audio` to intercept audio output, ensure your application handles macOS permissions gracefully. In some cases, additional permissions may be required from the user to manipulate audio output.
 6. **<ins>Code and Test</ins>:** Write the logic for volume boosting and user interface interactions. Test the application thoroughly, especially on macOS, to ensure it functions as expected.
 7. **<ins>Project Build</ins>:** Set up build configurations for macOS in CLion to generate a macOS executable. For cross-platform compatibility, you can also set up build configurations for other target platforms, if applicable.
@@ -205,7 +205,7 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 <a name="flow"></a>
 ## Basic Workflow Guide
 
-1. Upon launching <ins>__*volume-vault*__</ins>, the user is presented with a clean and straightforward UI, either as a menu bar widget or a standalone application.
+1. Upon launching `volume_vault`, the user is presented with a clean and straightforward UI, either as a menu bar widget or a standalone application.
 2. The user can toggle the volume boost feature on/off using a button or checkbox.
 3. A slider allows the user to adjust the level of volume boost they desire, ranging from 0% to 2000%.
 4. The application utilizes Core Audio to intercept audio output and apply the desired volume boost.
@@ -229,10 +229,10 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 &nbsp;
 
 ### System/User Permissions and Requirements:
-To manipulate audio output, *<ins>__volume-vault__</ins>* will need appropriate permissions to access the user's audio settings and intercept audio playback. 
+To manipulate audio output, `volume_vault` will need appropriate permissions to access the user's audio settings and intercept audio playback. 
 
 Users will need to grant the necessary permissions during the application's first run.\
-<ins>__*volume-vault*__</ins> should adhere to macOS security guidelines and handle permissions gracefully.
+`volume_vault` should adhere to macOS security guidelines and handle permissions gracefully.
 
 > Put
 > Shit
@@ -281,7 +281,7 @@ Users will need to grant the necessary permissions during the application's firs
 - **<ins>Menu Bar Widget</ins>:**
   - Run the application as a convenient menu bar drop-down widget.
 - **<ins>Standalone Application</ins>:**
-  - Offer the option to use *<ins>__volume-vault__</ins>* as a standalone application for easy access.
+  - Offer the option to use `volume_vault` as a standalone application for easy access.
 - **<ins>Customizability</ins>:**
   - Allow users to fine-tune the volume boost level according to their preferences.
 
@@ -295,8 +295,8 @@ Users will need to grant the necessary permissions during the application's firs
 <a name="give"></a>
 ## How and Why to Contribute
 
-- **Contribution Guidelines:** Provide clear guidelines on how developers can contribute to *<ins>__volume-vault__</ins>*.
-- **Open Source:** Consider making *<ins>__volume-vault__</ins>* an open-source project to foster community contributions.
+- **Contribution Guidelines:** Provide clear guidelines on how developers can contribute to `volume_vault`.
+- **Open Source:** Consider making `volume_vault` an open-source project to foster community contributions.
 - **Bug Reports and Feature Requests:** Encourage users to submit bug reports and suggest new features to improve the application.
 
 > Put

@@ -227,12 +227,21 @@ Users will need to grant the necessary permissions during the application's firs
 - **<ins>Accessibility</ins>:** Assist users with hearing impairments by increasing the volume as needed.
 - **<ins>Noisy Environments</ins>:** Allow users to boost volume in loud or noisy surroundings.
 
+> Put
+> Shit
+> Here
 
 ### Prerequisites:
 
+> Put
+> Shit
+> Here
 
 ### Installation:
 
+> Put
+> Shit
+> Here
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
@@ -247,6 +256,10 @@ Users will need to grant the necessary permissions during the application's firs
 - **<ins>Standalone Application</ins>:** Offer the option to use VolumeVault as a standalone application for easy access.
 - **<ins>Customizability</ins>:** Allow users to fine-tune the volume boost level according to their preferences.
 
+> Put
+> Shit
+> Here
+
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
 ---------------------
@@ -256,6 +269,10 @@ Users will need to grant the necessary permissions during the application's firs
 - **Contribution Guidelines:** Provide clear guidelines on how developers can contribute to *<ins>__volume-vault__</ins>*.
 - **Open Source:** Consider making *<ins>__volume-vault__</ins>* an open-source project to foster community contributions.
 - **Bug Reports and Feature Requests:** Encourage users to submit bug reports and suggest new features to improve the application.
+
+> Put
+> Shit
+> Here
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
@@ -272,6 +289,10 @@ Include preset configurations for different scenarios (e.g., movies, music, gami
 Integrate audio effects like spatial audio or surround sound to enrich the audio experience.
 8. **<ins>Dark Mode</ins>:**
 Add support for macOS dark mode to enhance visual appeal and consistency with macOS aesthetics.
+
+> Put
+> Shit
+> Here
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 
@@ -311,6 +332,10 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+
+> Put
+> Shit
+> Here
 
 <p align="right">(<a href="#vol">back to top</a>)</p>
 

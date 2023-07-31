@@ -123,15 +123,15 @@ For the *back-end* and audio processing, the following library can be considered
 > ##### <ins>__Started__</ins>: Not yet
 >
 > ##### <ins>__Completed On__</ins>: Idk
-
+>
 <a name="time"></a>
-
-#### Time Estimate: 
-
-The time required for completing `volume_vault` can vary based on the developer's expertise and the desired level of polish. 
-
-- For a *basic* version with the primary features, it may take around 2-4 weeks. 
-- For a *more refined* version with additional features and thorough testing, it may take up to 6-8 weeks or more.
+>
+> #### Time Estimate: 
+> 
+> The time required for completing `volume_vault` can vary based on the developer's expertise and the desired level of polish. 
+> 
+> - For a *basic* version with the primary features, it may take around 2-4 weeks. 
+> - For a *more refined* version with additional features and thorough testing, it may take up to 6-8 weeks or more.
 
   
 <a name="todo"></a>

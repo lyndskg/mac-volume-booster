@@ -26,7 +26,10 @@
     <li>
       <a href="#map">Roadmap</a>
       <ul>
-        <a href="#time">Timeline</a>
+        <a href="#line">Timeline</a>
+        <ul>
+          <a href="#time">Time Estimate</a>
+        </ul>
         <a href="#todo">To-Do List</a>
       </ul>
     </li>
@@ -75,9 +78,9 @@ By offering a user-friendly interface and a humorous touch, <ins>__*volume-vault
 For the *front-end* and *UI* development, the following technologies and programming languages are recommended:
 - **<ins>Swift</ins>:** As the primary language for macOS app development.
 - **<ins>SwiftUI</ins>:** To create a modern and visually appealing minimalistic user interface.
+&nbsp;
 
-
-For the back-end and audio processing, the following library can be considered:
+For the *back-end* and audio processing, the following library can be considered:
 - **<ins>Core Audio</ins>:** For audio manipulation and volume boosting.
 
 <a name="built"></a>
@@ -87,7 +90,7 @@ For the back-end and audio processing, the following library can be considered:
 <a name="devenv"></a>
 ### Development Environment:
 
-- **Operating System:** macOS Ventura 14.3.1
+- **Operating System:** macOS Ventura *(version 14.3.1)*
 - **Architecture:** Apple arm64
 
 
@@ -97,14 +100,22 @@ For the back-end and audio processing, the following library can be considered:
 <a name="map"></a>
 ## Roadmap
 
-<a name="timeline"></a>
+<a name="line"></a>
 ### Timeline: 
 
 > ##### <ins>__Started__</ins>: Not yet
 >
 > ##### <ins>__Completed On__</ins>: Idk
 
+<a name="time"></a>
+#### Time Estimate: 
 
+The time required for completing <ins>__*volume-vault*__</ins> can vary based on the developer's expertise and the desired level of polish. 
+
+- For a *basic* version with the primary features, it may take around 2-4 weeks. 
+- For a *more refined* version with additional features and thorough testing, it may take up to 6-8 weeks or more.
+
+  
 <a name="todo"></a>
 ### To-Do List: 
 - [ ] Create a New macOS SwiftUI Project
@@ -136,7 +147,7 @@ For the back-end and audio processing, the following library can be considered:
 
 ---------------------
 
-<a name="time"></a>
+≈
 ## Time Estimate
 The time required for completing <ins>__*volume-vault*__</ins> can vary based on the developer's expertise and the desired level of polish. 
 

@@ -133,7 +133,7 @@ For the *back-end* and audio processing, the following library can be considered
 >
 <a name="time"></a>
 >
-#### Time Estimate: 
+### Time Estimate: 
 > 
 > The time required for completing `volume_vault` can vary based on the developer's expertise and the desired level of polish. 
 > 

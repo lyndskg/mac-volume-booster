@@ -190,7 +190,7 @@ For the *back-end* and audio processing, the following library can be considered
 
 <a name="cpp"></a>
 ### Version 2: CLion in *C++*
-- [] 1. **<ins>Create a New C++ Project</ins>:** In CLion, create a new C++ project, and define the basic structure for the VolumeVault application.
+- [ ] 1. **<ins>Create a New C++ Project</ins>:** In CLion, create a new C++ project, and define the basic structure for the VolumeVault application.
 > 2. **<ins>Choose a Cross-Platform Framework (Optional)</ins>:** To ensure cross-platform compatibility, consider using a cross-platform C++ framework, such as `Qt` or `wxWidgets`, for the front-end development. These frameworks will allow you to create a user-friendly interface that works seamlessly on macOS and other platforms.
 3. **<ins>Integrate Core Audio (macOS-specific)</ins>:** To enable volume boosting on macOS, you'll need to use the Core Audio framework. While Core Audio is macOS-specific, you can use preprocessor directives to handle platform-specific code and ensure the application compiles correctly on macOS.
 4. **<ins>Implement Minimalistic UI</ins>:** Using your preferred C++ framework or native macOS APIs, create a simple and intuitive user interface for `volume_vault`. Keep the UI minimalistic to achieve a clean and user-friendly design.

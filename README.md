@@ -195,11 +195,11 @@ The time required for completing <ins>__*volume-vault*__</ins> can vary based on
 <a name="io"></a>
 ## Basic I/O Details
 
-> ### Input:
+### Input:
 > - User interaction with the application's sliders and buttons to control volume boost and other settings.
 > 
 >
-> ### Output:
+### Output:
 > - Boosted audio output to the system's audio playback.
 
 &nbsp;

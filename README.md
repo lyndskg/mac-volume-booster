@@ -59,7 +59,7 @@
 
 <a name="view"></a>
 ## Project Overview
-<ins>__*volume-vault*__</ins> is a macOS application that breaks through Apple's pre-set maximum audio playback volume restrictions, enabling users to boost and amplify their favorite audio media content by up to 2000%. 
+`volume_vault` is a macOS application that breaks through Apple's pre-set maximum audio playback volume restrictions, enabling users to boost and amplify their favorite audio media content by up to 2000%. 
 
 This entertaining project features a simple and minimalistic user interface, offering users the choice to use it as a Mac menu bar drop-down widget or a standalone application for an enjoyable audio amplification experience.
 

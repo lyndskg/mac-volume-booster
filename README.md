@@ -81,7 +81,8 @@ For the *front-end* and *UI* development, the following technologies and program
 &nbsp;
 
 For the *back-end* and audio processing, the following library can be considered:
-- **<ins>Core Audio</ins>:** For audio manipulation and volume boosting.
+> - **<ins>Core Audio</ins>:** For audio manipulation and volume boosting.
+
 
 <a name="built"></a>
 ### Built With:

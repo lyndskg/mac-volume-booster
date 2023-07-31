@@ -23,7 +23,6 @@
         <a href="#devenv">Development Environment</a>
       </ul>
     </li>
-    <li><a href="#start">Getting Started</a></li>
     <li>
       <a href="#map">Roadmap</a>
       <ul>
@@ -32,6 +31,14 @@
           <li><a href="#time">Time Estimate</a></li>
         </ul>
         <li><a href="#todo">To-Do List</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#start">Getting Started</a></li>
+      <ul>
+        <a href="#xcode">SwiftUI in XCode</a>
+        <a href="#cpp">C++ in CLion</a>
+        <a href="#swift">Swift in CLion</a>
       </ul>
     </li>
     <li><a href="#flow">Basic Workflow</a></li>
@@ -174,11 +181,14 @@ For the *back-end* and audio processing, the following library can be considered
 ## Getting Started
 
 
+<a name="xcode"></a>
 ### Version 1: XCode in *SwiftUI*
 1. **<ins>Install XCode</ins>:** Download and install XCode, the integrated development environment for macOS app development, from the Mac App Store.
 2. **<ins>Create a New macOS SwiftUI Project</ins>:** Set up a new project and define the basic UI elements and application structure.
 
 
+
+<a name="cpp"></a>
 ### Version 2: CLion in *C++*
 1. **<ins>Create a New C++ Project</ins>:** In CLion, create a new C++ project, and define the basic structure for the VolumeVault application.
 2. **<ins>Choose a Cross-Platform Framework (Optional)</ins>:** To ensure cross-platform compatibility, consider using a cross-platform C++ framework, such as `Qt` or `wxWidgets`, for the front-end development. These frameworks will allow you to create a user-friendly interface that works seamlessly on macOS and other platforms.
@@ -190,6 +200,7 @@ For the *back-end* and audio processing, the following library can be considered
 8. **<ins>Optional XCode or VSCode Integration</ins>:** If you prefer, you can use XCode or VSCode for specific tasks, such as advanced debugging, profiling, or specific macOS-related development. You can import your C++ project from JetBrains CLion into XCode or VSCode when necessary.
 
 
+<a name="swift"></a>
 ### Version 3: CLion in *Swift*
 1. **<ins>Swift Support</ins>:** By default, JetBrains CLion doesn't provide built-in support for Swift. However, you can enable Swift support using the Swift Plugin. To do this, go to "Settings" (or "Preferences" on macOS) > "Plugins" > "Marketplace," search for "Swift," and install the Swift plugin.
 2. **<ins>Create a New Swift Project</ins>:** After enabling the Swift plugin, you can create a new Swift project in JetBrains CLion. Choose the appropriate project template for a macOS application.
@@ -247,10 +258,14 @@ Users will need to grant the necessary permissions during the application's firs
 ## Usage
 
 ### Potential Use Cases and Applications:
-- **<ins>Media Playback</ins>:** Enhance audio volume when watching movies, videos, or listening to music.
-- **<ins>Video Conferencing</ins>:** Improve audio clarity during online meetings and conferences.
-- **<ins>Accessibility</ins>:** Assist users with hearing impairments by increasing the volume as needed.
-- **<ins>Noisy Environments</ins>:** Allow users to boost volume in loud or noisy surroundings.
+- **<ins>Media Playback</ins>:**
+  - Enhance audio volume when watching movies, videos, or listening to music.
+- **<ins>Video Conferencing</ins>:**
+  - Improve audio clarity during online meetings and conferences.
+- **<ins>Accessibility</ins>:**
+  - Assist users with hearing impairments by increasing the volume as needed.
+- **<ins>Noisy Environments</ins>:**
+  - Allow users to boost volume in loud or noisy surroundings.
 
 > Put
 > Shit
